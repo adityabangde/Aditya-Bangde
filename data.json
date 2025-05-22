@@ -1,37 +1,57 @@
 {
   "team": [
     {
-      "name": "Lovda bangde",
+      "name": "Aditya bangde",
       "role": "Hardware Integration",
-      "description": "I implemented the ESP32-S3 for real-time video and audio data streaming over WebSocket, and integrated RFID for secure patient identification.",
-      "profileUrl": "https://devpost.com/bangdework",
+      "description": "Researched and selected core components, assembled and integrated the system, and optimized amplifier settings. Worked on identifying noise sources and ensuring clean signal flow. Collaborated on 3D printing and hardware testing of the custom headset.",
+      "profileUrl": "#",
       "photoUrl": "//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/277/128/datas/profile.jpg",
       "followThroughId": "5233855"
     },
     {
-      "name": "Rakshita Babu",
-      "role": "Hardware Integration",
-      "description": "I implemented the ESP32-S3 for real-time video and audio data streaming over WebSocket, and integrated RFID for secure patient identification.",
-      "profileUrl": "https://devpost.com/bangdework",
+      "name": "Rakshitha Babu",
+      "role": "Testing and Design",
+      "description": "Tested and validated hardware functionality, fine-tuned signal pathways, and analyzed noise interference. Used DSO and multimeter to verify amplifier and ADC performance. Collaborated on 3D printing the custom headset and contributed to EEG data collection and signal testing.",
+      "profileUrl": "#",
       "photoUrl": "NMI RAKSHITHA.PNG",
       "followThroughId": "5233855"
     },
     {
       "name": "Shreya Sarma",
-      "role": "Hardware Integration",
-      "description": "I implemented the ESP32-S3 for real-time video and audio data streaming over WebSocket, and integrated RFID for secure patient identification.",
-      "profileUrl": "https://devpost.com/bangdework",
+      "role": "Machine Learning",
+      "description": "Led data cleaning and preprocessing, and trained the deep learning model through multiple iterations. Focused on improving classification accuracy with optimized training and validation.",
+      "profileUrl": "#",
       "photoUrl": "NMI SHREYA 2.jpg",
       "followThroughId": "5233855"
     }
   ],
   "builtWith": [
     {
-      "name": "deepgram",
+      "name": "Python",
       "url": null  
     },
     {
-      "name": "openai",
+      "name": "1D CNN-LSTM",
+      "url": null
+    },
+    {
+      "name": "3D Printing",
+      "url": null
+    },
+    {
+      "name": "RaspberryPi Zero",
+      "url": null
+    },
+    {
+      "name": "AD620 Amplifier",
+      "url": null
+    },
+    {
+      "name": "ADS 1263 32-bit ADC",
+      "url": null
+    },
+    {
+      "name": "git",
       "url": null
     }
   ]

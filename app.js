@@ -22,6 +22,16 @@ function renderTeam(teamData) {
                 <p>${member.description}</p>
             </div>
             <div class="row">
+                <div class="small-10 large-8 columns">
+                    <a class="user-profile-link" href="${member.profileUrl}">${member.name}</a>
+                    <span class="follow-button-wrapper" 
+                          data-context="software-detail"
+                          data-layout="condensed" 
+                          data-follow-through-id="${member.followThroughId}">
+                    </span>
+                    <br>
+                    <small>${member.role}</small>
+                </div>
                 <div class="small-2 large-4 columns">
                     <figure>
                         <a class="user-profile-link" href="${member.profileUrl}">
@@ -34,16 +44,7 @@ function renderTeam(teamData) {
                         </a>
                     </figure>
                 </div>
-                <div class="small-10 large-8 columns">
-                    <a class="user-profile-link" href="${member.profileUrl}">${member.name}</a>
-                    <span class="follow-button-wrapper" 
-                          data-context="software-detail"
-                          data-layout="condensed" 
-                          data-follow-through-id="${member.followThroughId}">
-                    </span>
-                    <br>
-                    <small>${member.role}</small>
-                </div>
+                
             </div>
         </li>
     `).join('');

@@ -100,6 +100,10 @@
     height: 70px;
 }
 
+.no-bullet {
+  list-style-type: none;
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
     #gallery .flex-video,
