@@ -1,0 +1,38 @@
+{
+  "team": [
+    {
+      "name": "Lovda bangde",
+      "role": "Hardware Integration",
+      "description": "I implemented the ESP32-S3 for real-time video and audio data streaming over WebSocket, and integrated RFID for secure patient identification.",
+      "profileUrl": "https://devpost.com/bangdework",
+      "photoUrl": "//d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/277/128/datas/profile.jpg",
+      "followThroughId": "5233855"
+    },
+    {
+      "name": "Rakshita Babu",
+      "role": "Hardware Integration",
+      "description": "I implemented the ESP32-S3 for real-time video and audio data streaming over WebSocket, and integrated RFID for secure patient identification.",
+      "profileUrl": "https://devpost.com/bangdework",
+      "photoUrl": "NMI RAKSHITHA.PNG",
+      "followThroughId": "5233855"
+    },
+    {
+      "name": "Shreya Sarma",
+      "role": "Hardware Integration",
+      "description": "I implemented the ESP32-S3 for real-time video and audio data streaming over WebSocket, and integrated RFID for secure patient identification.",
+      "profileUrl": "https://devpost.com/bangdework",
+      "photoUrl": "NMI SHREYA 2.jpg",
+      "followThroughId": "5233855"
+    }
+  ],
+  "builtWith": [
+    {
+      "name": "deepgram",
+      "url": null  
+    },
+    {
+      "name": "openai",
+      "url": null
+    }
+  ]
+} 
